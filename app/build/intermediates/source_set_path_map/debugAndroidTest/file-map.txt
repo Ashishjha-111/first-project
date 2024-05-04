@@ -1,0 +1,6 @@
+eu.tutorials.a7minutesworkout.test.app-annotation-experimental-1.3.0-0 C:\Users\my pc\.gradle\caches\transforms-3\3712a6a038ad39517c880d951e194023\transformed\annotation-experimental-1.3.0\res
+eu.tutorials.a7minutesworkout.test.app-core-1.5.0-1 C:\Users\my pc\.gradle\caches\transforms-3\95afcc5974bf487af59f06c0f0573e72\transformed\core-1.5.0\res
+eu.tutorials.a7minutesworkout.test.app-androidTest-2 C:\Users\my pc\AndroidStudioProjects\7MinutesWorkout3\app\build\generated\res\resValues\androidTest\debug
+eu.tutorials.a7minutesworkout.test.app-mergeDebugAndroidTestResources-3 C:\Users\my pc\AndroidStudioProjects\7MinutesWorkout3\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+eu.tutorials.a7minutesworkout.test.app-mergeDebugAndroidTestResources-4 C:\Users\my pc\AndroidStudioProjects\7MinutesWorkout3\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+eu.tutorials.a7minutesworkout.test.app-merged_res-5 C:\Users\my pc\AndroidStudioProjects\7MinutesWorkout3\app\build\intermediates\merged_res\debugAndroidTest
