@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
             // Launching the BMI Activity
             val intent = Intent(this, BMIActivity::class.java)
             startActivity(intent)
-        }
+       }
 
 
         // TODO(Step 6 : Adding a click event to launch the History Screen Activity from Main Activity.)
